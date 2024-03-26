@@ -1,6 +1,6 @@
 function [height, radius] = orbit_height(T)
 
-% Compute satallite orbit height and raius using pendulum method. 
+% Compute satallite orbit height and radius using pendulum method. 
 %
 % Inputs: 
 %   T       -   Period of orbit (seconds)

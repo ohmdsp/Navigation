@@ -1,6 +1,7 @@
 function [sqmview, sqmlview, coverage, N] = orbit_view(height)
 
-% Compute approximate satallite visibility in square miles base on orbit height.
+% Compute approximate satellite visibility on ground in square miles 
+% base on orbit height.
 %
 % Inputs: 
 %   height       -   Height of orbit (km)
